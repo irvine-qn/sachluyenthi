@@ -22,7 +22,6 @@ header, div, footer {
 }
 
 header {
-  background-image: url("Pictures/main/2707_nen-background-pp-chu-de-hoc-tap9.jpg");
   background-size: cover;
   background-position: center;
   padding: 70px 30px;
@@ -155,4 +154,5 @@ button:hover {
     font-size: 36px;
   }
 }
+
 
