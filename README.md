@@ -41,12 +41,12 @@ sachluyenthi/
 ├── index.html # Trang chủ
 ├── luyenthi12.html # Trang luyện thi lớp 12
 ├── onluyenielts.html # Trang luyện thi IELTS
-├── dgnlhcm.html # Trang luyện thi ĐGNL
+├── dgnlhcm.html # Trang luyện thi Đánh giá năng lực
 │
 └── README.md
 ```
 
-## 🖥️ Các trang chính
+## Các trang chính
 - **Trang chủ**  
   Giới thiệu tổng quan và điều hướng tới các danh mục sách
 
@@ -58,8 +58,6 @@ sachluyenthi/
 
 - **Luyện thi ĐGNL (Đánh giá năng lực)**  
   Sách luyện thi ĐGNL với thông tin chi tiết từng cuốn
-
----
 
 ## Công nghệ sử dụng
 - HTML
